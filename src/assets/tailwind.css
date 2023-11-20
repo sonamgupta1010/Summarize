@@ -1,0 +1,13 @@
+/* This section includes the tailwindcss directives for configuring base styles, components, and utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* This block of CSS targets the <body> element and applies specific styles to it */
+body {
+    /* Set the height of the body element to 400 pixels */
+    height: 400px;
+    
+    /* Set the width of the body element to 400 pixels */
+    width: 400px;
+}
